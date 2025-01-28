@@ -1,0 +1,1 @@
+A ideia desse projeto foi justamente para quem esquece o aniversário, como eu. Desenvolvi um aplicativo onde é possível marcar o aniversário em um calendário. No dia, o aplicativo envia uma notificação para lembrar quem está fazendo aniversário.
